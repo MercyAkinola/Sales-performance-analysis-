@@ -17,11 +17,15 @@
 
 # Project Overview
 
- This project provides key insights into the sample superstore's sales performance across different regions and product categories. Provides key insights into sales trends, revenue distribution, and customer behavior to assist management in making data-driven decisions.
+This project provides key insights into the sample superstore's sales performance across different regions and product categories. Provides key insights into sales trends, revenue distribution, and customer behavior to assist management in making data-driven decisions.
 
-![Screenshot 2025-03-07 225718](https://github.com/user-attachments/assets/f754e07e-c539-4e56-9004-af693d3b6c79)
 
- 
+
+
+![Screenshot 2025-03-08 041853](https://github.com/user-attachments/assets/f5d34a40-4ae4-4139-8025-e2fc0e9ac103)
+
+
+
 
 # Business Introduction
 
